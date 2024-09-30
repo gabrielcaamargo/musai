@@ -2,12 +2,16 @@
   "migIndex": 1,
   "data": [
     {
+      "path": "assets/fonts/AfacadFlux-Black.ttf",
+      "sha1": "cc8da61cd60accc3a429e9eb2b409e6e2826ef5c"
+    },
+    {
       "path": "assets/fonts/AfacadFlux-Bold.ttf",
       "sha1": "4abb38205aa9d3463317f50dfa9b4f39692eb598"
     },
     {
-      "path": "assets/fonts/AfacadFlux-Medium.ttf",
-      "sha1": "e11f72d1fb718e754a0e9b380bab87c8a2afb3c8"
+      "path": "assets/fonts/AfacadFlux-Light.ttf",
+      "sha1": "7fbfe7b2edbf3acde9b99204e91b68db60079847"
     },
     {
       "path": "assets/fonts/AfacadFlux-Regular.ttf",
@@ -22,12 +26,12 @@
       "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
     },
     {
-      "path": "assets/fonts/Lato-Regular.ttf",
-      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+      "path": "assets/fonts/Lato-Light.ttf",
+      "sha1": "ad0d178564445a535b15d417f5b18019923d3bab"
     },
     {
-      "path": "assets/fonts/Lato-Thin.ttf",
-      "sha1": "07290446bee3f81ce501a3c3dbfde6097c70ca15"
+      "path": "assets/fonts/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
     }
   ]
 }
