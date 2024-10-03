@@ -24,7 +24,7 @@ export const theme = createTheme({
 		primaryColorLight: pallette.greenPrimaryLight,
 		secondaryColor: pallette.orangeSecondary,
 		secondaryColorLight: pallette.orangeSecondaryLight,
-
+		textContrast: pallette.white,
 		success: pallette.greenPrimaryLight,
 		error: pallette.redError,
 		warning: pallette.yellowAlert,

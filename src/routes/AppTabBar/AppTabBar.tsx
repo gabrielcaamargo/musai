@@ -16,8 +16,7 @@ export function AppTabBar({state, descriptors, navigation}: BottomTabBarProps) {
 		<Box
 			flexDirection="row"
 			alignItems="center"
-			gap="s32"
-			justifyContent="center"
+			justifyContent="space-evenly"
 			backgroundColor="stoneDark"
 			borderTopColor="stoneMedium"
 			borderWidth={1}

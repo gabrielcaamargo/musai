@@ -1,12 +1,14 @@
 import React from 'react';
 
-import {Screen, Text} from '@components';
+import {Screen} from '@components';
 import {AppTabScreenProps} from '@routes';
+
+import {Greetings} from './components/Greetings/Greetings';
 
 export function HomeScreen({}: AppTabScreenProps<'HomeScreen'>) {
 	return (
 		<Screen>
-			<Text color="white">HomeScreen</Text>
+			<Greetings />
 		</Screen>
 	);
 }
