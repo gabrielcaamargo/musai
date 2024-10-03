@@ -19,7 +19,7 @@ export const pallette = {
 export const theme = createTheme({
 	colors: {
 		...pallette,
-
+		background: pallette.stoneDark,
 		primaryColor: pallette.greenPrimary,
 		primaryColorLight: pallette.greenPrimaryLight,
 		secondaryColor: pallette.orangeSecondary,
